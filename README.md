@@ -21,3 +21,8 @@ Even Base is referencing to Base Goerli which is deprecated
 
 <img width="1187" alt="Screenshot 2025-02-24 at 8 40 30 PM" src="https://github.com/user-attachments/assets/8fa4992b-6585-4c0d-b646-a2eb5ad0c554" />
 
+6) Strange thing 
+
+When using testnet and putting ethereum as the chain it didnt work though it used sepolia rpc, on the other side when changed the sourcechain to Sepolia it worked 
+
+
