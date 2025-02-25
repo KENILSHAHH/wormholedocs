@@ -25,4 +25,9 @@ Even Base is referencing to Base Goerli which is deprecated
 
 When using testnet and putting ethereum as the chain it didnt work though it used sepolia rpc, on the other side when changed the sourcechain to Sepolia it worked 
 
+7) There should be timeout mentioned for some stanmdard routes, i used sepolia and manually overwritten timeouts of 20 mins 
+
+8) There should be a simple quickstart example that shows how to bridge assets. TBH it took me 7 hours to understand everything by going to and fro which should have been done in 15 mins
+
+
 
