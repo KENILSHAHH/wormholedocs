@@ -15,3 +15,9 @@ Even Base is referencing to Base Goerli which is deprecated
 4) Aptos Testnet is deprecated 
 
 <img width="1187" alt="Screenshot 2025-02-24 at 8 30 19 PM" src="https://github.com/user-attachments/assets/f9da579a-f1e5-4165-91aa-daa858b1a03d" />
+
+
+5) Takes Too much time to fetch VAA bytes
+
+<img width="1187" alt="Screenshot 2025-02-24 at 8 40 30 PM" src="https://github.com/user-attachments/assets/8fa4992b-6585-4c0d-b646-a2eb5ad0c554" />
+
